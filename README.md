@@ -25,4 +25,4 @@ Make sure you have installed the following software :
 ``` bash 
     npm run cypress
 ```
-![image1](https://github.com/bujangkuu/api-automation-sanber/blob/main/evidance/image.png)
+![image1](https://github.com/bujangkuu/api-automation-sanber/blob/main/evidance/image1.png)
